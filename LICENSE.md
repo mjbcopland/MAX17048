@@ -1,4 +1,5 @@
 MAX17048 Driver Library
+
 Modified January 2016 by Michael Copland for the Arduino framework
 
 Copyright (c) 2013 Neil Thiessen
